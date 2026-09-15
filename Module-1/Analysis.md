@@ -1,6 +1,4 @@
-# Module 1 or Unit 1 Analysis
-
-# Unit 1: Your First Android App
+# Module 1 or Unit 1: Your First Android App
 
 ## Overview
 
