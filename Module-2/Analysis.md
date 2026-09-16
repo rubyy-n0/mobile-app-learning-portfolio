@@ -1,6 +1,4 @@
-# Module 2 Analysis
-
-# Unit 2: Building App UI
+# Module 2 or Unit 2: Building App UI
 
 ## Overview
 
