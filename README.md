@@ -194,6 +194,7 @@ Badge screenshots and supporting evidence are stored in the `Badge-Evidence` fol
 *https://me.developers.google.com/u/112069055278131184863?authuser=1&pageId=none*
 
 The Android Developer profile linked in this portfolio is my current profile. My previous Android Developer account became inaccessible due to a login issue, so I continued my learning activities using this account. The profile provides evidence of my completed learning pathways and earned badges for this portfolio.
+
 ---
 
 ## GitHub Repository Overview
