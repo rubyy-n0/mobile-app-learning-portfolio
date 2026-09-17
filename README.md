@@ -143,18 +143,13 @@ This module focused on displaying collections of information using lists and gri
 
 The final module introduced more advanced Android development concepts, including application architecture, ViewModel, StateFlow, navigation, testing, and adaptive UI design. I learned how to structure applications with multiple screens, manage UI state separately from the interface, and design applications that can adapt to different screen sizes.
 
-The module included practical work with:
+**Applications developed:**
 
-* Activity lifecycle
-* ViewModel
-* UI State
-* StateFlow and UDF
-* Jetpack Compose Navigation
-* Navigation and data passing
-* Adaptive layouts
-* Window size classes
-* Dynamic navigation
-* Unit testing
+🍰 Dessert Clicker App
+🔤 Unscramble App
+🧁 Cupcake App
+💬 Reply App
+⚽ Sport App
 
 ---
 
