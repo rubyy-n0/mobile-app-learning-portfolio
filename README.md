@@ -145,11 +145,11 @@ The final module introduced more advanced Android development concepts, includin
 
 **Applications developed:**
 
-🍰 Dessert Clicker App
-🔤 Unscramble App
-🧁 Cupcake App
-💬 Reply App
-⚽ Sport App
+* 🍰 Dessert Clicker App
+* 🔤 Unscramble App
+* 🧁 Cupcake App
+* 💬 Reply App
+* ⚽ Sport App
 
 ---
 
