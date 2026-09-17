@@ -177,7 +177,7 @@ I completed the required Android Developers learning modules and earned achievem
 
 **Total Pathways Completed: 12 / 12 ✅**
 
-**Total Modules Completed: over 20 ✅**
+**Total Badges Completed: over 20 ✅**
 
 Badge screenshots and supporting evidence are stored in the `Badge-Evidence` folder of each module.
 
