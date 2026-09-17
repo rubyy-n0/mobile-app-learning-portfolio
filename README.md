@@ -221,11 +221,11 @@ I started with basic Kotlin programming and learned how to create and run Androi
 
 In Module 3, I learned how to display collections of data using lists and grids and how Material Design can improve the appearance and usability of an application. Building applications such as the **Affirmation, Grid Courses, Superheroes, and Woof apps** allowed me to apply these concepts through practical implementation.
 
-Module 4 introduced more advanced concepts, including **Android architecture, ViewModel, StateFlow, navigation, testing, and adaptive UI**. These concepts helped me understand how larger applications can be structured, how state can be managed separately from the UI, and how applications can adapt to different screen sizes.
+Module 4 introduced more advanced Android development concepts through **Architecture Components, Navigation in Jetpack Compose, and adaptive UI design**. I learned how **ViewModel, UI state, StateFlow, and Unidirectional Data Flow (UDF)** can be used to organize application logic and manage state. I also learned how to use **Jetpack Compose Navigation** to connect multiple screens and pass data between them through the **Cupcake app**. In addition, the **Reply and Sport apps** helped me understand **adaptive layouts, window size classes, and dynamic navigation** for different screen sizes. The module also introduced **testing**, which helped me understand the importance of checking application behaviour and reliability.
 
-Overall, completing the four modules improved my Kotlin and Jetpack Compose skills and gave me practical experience in building Android applications. I also developed a better understanding of code organization, UI design, state management, navigation, testing, and version control.
+Overall, completing the four modules improved my Kotlin and Jetpack Compose skills and gave me practical experience in building Android applications. I also developed a better understanding of code organization, UI design, state management, architecture, navigation, testing, adaptive UI, and version control.
 
-Maintaining this GitHub portfolio allowed me to document my learning progress, organize my work professionally, and reflect on the techniques used throughout the Android development journey.
+Maintaining this GitHub portfolio allowed me to document my learning progress, organize my work professionally, and reflect on the techniques used throughout my Android development journey.
 
 ---
 
